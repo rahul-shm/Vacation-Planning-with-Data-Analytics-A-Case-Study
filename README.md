@@ -2,7 +2,6 @@
 
 ## Repository Structure
 This repository is organized as follows:
-- **Dataset**: Contains relevant datasets used in the analysis (e.g., weather data, travel costs, etc.).
 - **Solution**: Contains the step-by-step process and analysis used to arrive at the final decision.
 
 ---
