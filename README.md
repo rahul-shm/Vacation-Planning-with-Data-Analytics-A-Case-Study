@@ -2,7 +2,7 @@
 
 ## Repository Structure
 This repository is organized as follows:
-- **Solution**: Contains the step-by-step process and analysis used to arrive at the final decision.
+- **Report**: Contains the step-by-step process and analysis used to arrive at the final decision.
 
 ---
 
